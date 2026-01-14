@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Burn the Witch",
+  "base_artist": "Radiohead",
+  "createdAt": "2026-01-14T03:52:02.907470Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Burn the Witch",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/01_Burn_the_Witch_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Burn the Witch (UNKLE Variation)",
+      "artist": "Queens of the Stone Age",
+      "has_synced": false,
+      "path": "select/02_Burn_the_Witch_(UNKLE_Variation)_Queens_of_the_Stone_Age.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Burn the Witch",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/03_Burn_the_Witch_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Burn the Witch",
+      "artist": "Venom",
+      "has_synced": false,
+      "path": "select/04_Don't_Burn_the_Witch_Venom.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "10 - Don't Burn The Witch",
+      "artist": "Venom",
+      "has_synced": true,
+      "path": "select/05_10_-_Don't_Burn_The_Witch_Venom.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Burn the Witch",
+      "artist": "Emma Blackery",
+      "has_synced": true,
+      "path": "select/06_Burn_the_Witch_Emma_Blackery.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Burn the Witch (UNKLE remix)",
+      "artist": "Queens of the Stone Age",
+      "has_synced": false,
+      "path": "select/07_Burn_the_Witch_(UNKLE_remix)_Queens_of_the_Stone_Age.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Burn The Witch",
+      "artist": "Queens of the Stone Age",
+      "has_synced": true,
+      "path": "select/08_Burn_The_Witch_Queens_of_the_Stone_Age.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Burn The Witch",
+      "artist": "Queens Of The Stone Age",
+      "has_synced": true,
+      "path": "select/09_Burn_The_Witch_Queens_Of_The_Stone_Age.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Burn The Witch - Live At Brixton Academy / 2005",
+      "artist": "Queens of the Stone Age",
+      "has_synced": true,
+      "path": "select/10_Burn_The_Witch_-_Live_At_Brixton_Academy___2005_Queens_of_the_Stone_Age.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Burn The Witch (Live At Brixton Academy / 2005)",
+      "artist": "Queens of the Stone Age",
+      "has_synced": true,
+      "path": "select/11_Burn_The_Witch_(Live_At_Brixton_Academy___2005)_Queens_of_the_Stone_Age.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Burn The Witch",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/12_Burn_The_Witch_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Salem (Burn the Witch)",
+      "artist": "NOTHING MORE",
+      "has_synced": true,
+      "path": "select/13_Salem_(Burn_the_Witch)_NOTHING_MORE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Burn The Witch",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/pl_01_Burn_The_Witch_Radiohead.txt"
+    }
+  ]
+}
